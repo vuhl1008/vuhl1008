@@ -10,16 +10,25 @@
 ### 📬 Connect with me:
 - 📧 Email: **vuhl1008@gmail.com**
 - 🔭 I’m currently working on: **NLP & Large Language Models**
-- 🌱 I’m currently learning: **Deep Learning Architectures at UET**
+- 🌱 I’m currently learning: **Computer Science at UET**
 
-### 🛠 Languages and Tools:
+### 💻 Languages Programming
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cpp,java,mysql,mongodb,aws,git,bash" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,bash,html,css" />
 </p>
 
+### 🧠 AI & Machine Learning Libraries
 <p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/> </a>
+</p>
+
+### 🛠 Tools, Databases & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,pycharm" />
 </p>
 
 ### 📊 GitHub Analysis:
