@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
-<h3 align="center">I focused on NLP and LLMs</h3>
+<h3 align="center">I am focused on NLP and large language models (LLMs)</h3>
 
 ---
 
@@ -14,9 +14,9 @@
 </p>
 
 ### 🧠 AI & Machine Learning Libraries
-<div style="display:flex; gap:10px;">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,numpy" height="48"/>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
 ### 🛠 Tools, Databases & Cloud
 <p align="left">
