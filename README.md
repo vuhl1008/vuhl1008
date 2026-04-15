@@ -14,12 +14,8 @@
 </p>
 
 ### 🧠 AI & Machine Learning Libraries
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  <img src="https://skillicons.dev/icons?i=python" height="48"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="48"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="48"/>
-  <img src="https://cdn.simpleicons.org/pandas" height="48"/>
-  <img src="https://cdn.simpleicons.org/numpy" height="48"/>
+<div style="display:flex; gap:10px;">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,numpy" height="48"/>
 </div>
 
 ### 🛠 Tools, Databases & Cloud
